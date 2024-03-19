@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WarehouseAccounting.Constants">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="WarehouseAccounting.Constants.MYSQL">
+        <TypeIdentifier>
+          <NewMemberFileName>Constants.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Constants.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WarehouseAccounting.Database">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAIBAAAAAAAAAAYIAAAAAAAAAAAAACCAgAAA=</HashCode>
+      <FileName>Database.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WarehouseAccounting.WarehouseRecord">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="WarehouseAccounting.WarehouseRecord.TypeRecord">
+        <TypeIdentifier>
+          <NewMemberFileName>WarehouseRecord.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Class Name="WarehouseAccounting.WarehouseRecord.Location">
+        <TypeIdentifier>
+          <NewMemberFileName>WarehouseRecord.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAACAAAFAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>WarehouseRecord.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WarehouseAccounting.Extensions">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WarehouseRecordGeneral.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WarehouseAccounting.WarehouseRecordGeneral">
+    <Position X="3.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAIAAAAAAAAAIAAAAQAAIAAAA=</HashCode>
+      <FileName>WarehouseRecordGeneral.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WarehouseAccounting.WarehouseRecordMCU">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="WarehouseAccounting.WarehouseRecordMCU.TypeMCU" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>WarehouseRecordMCU.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AABAAAAACAAACAAAAAAAAAAABAAAAAAgAAAAAAEAABA=</HashCode>
+      <FileName>WarehouseRecordMCU.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WarehouseAccounting.WorkingConditions">
+    <Position X="7.5" Y="4" Width="1.5" />
+    <NestedTypes>
+      <Class Name="WarehouseAccounting.WorkingConditions.RangeOfValues" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>WorkingConditions.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>WorkingConditions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyApp.Program">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

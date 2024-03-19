@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WarehouseAccounting", "WarehouseAccounting.csproj", "{BBDB3225-C01F-4AFD-B5DC-449582390AE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarehouseAccountingGUI", "..\WarehouseAccountingGUI\WarehouseAccountingGUI.csproj", "{6DEDF738-9C69-4F42-BCB2-ECB5C524D36E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBDB3225-C01F-4AFD-B5DC-449582390AE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBDB3225-C01F-4AFD-B5DC-449582390AE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBDB3225-C01F-4AFD-B5DC-449582390AE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBDB3225-C01F-4AFD-B5DC-449582390AE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DEDF738-9C69-4F42-BCB2-ECB5C524D36E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DEDF738-9C69-4F42-BCB2-ECB5C524D36E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DEDF738-9C69-4F42-BCB2-ECB5C524D36E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DEDF738-9C69-4F42-BCB2-ECB5C524D36E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6E2A24E-2193-462D-A447-C3E3BD5214AB}
+	EndGlobalSection
+EndGlobal
